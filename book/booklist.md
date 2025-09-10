@@ -16,7 +16,7 @@
 | --- | --- | --- | --- | --- |
 | 成本效益分析/健康科技評估 | Edlin, R., McCabe, C., Hulme, C., Hall, P. & Wright, J. | 2015 | **[Cost Effectiveness Modelling for Health Technology Assessment: A Practical Course](Cost%20Effectiveness%20Modelling%20for%20Health%20Technology%20Assessment%20-%20A%20Practical%20Course/Cost%20Effectiveness%20Modelling%20for%20Health%20Technology%20Assessment.pdf)** | Springer |
 | 成本效益分析/健康科技評估 | Briggs, A., Sculpher, M. & Claxton, K. | 2006 | **[Decision Modelling for Health Economic Evaluation](Decision%20Modelling%20for%20Health%20Economic%20Evaluation/%5BHandbooks%20in%20health%20economic%20evaluation%20series%5D%20Decision%20Modelling%20for%20Health%20Economic%20Evaluation%20%5B頁數修正%5D.pdf)** (Handbooks in health economic evaluation series) | Oup Oxford |
-| 健康效益測量/估值 | Brazier, J., Ratcliffe, J., Saloman, J. & Tsuchiya, A. | 2016 | **[Measuring and Valuing Health Benefits for Economic Evaluation](Measuring%20and%20Valuing%20Health%20Benifits%20for%20Economic%20Evaluation%2C%202E/Measuring%20and%20Valuing%20Health%20Benifits%20for%20Economic%20Evaluation%2C%202E.pdf)** | Oup Oxford |
+| 健康效益測量/估值 | Brazier, J., Ratcliffe, J., Saloman, J. & Tsuchiya, A. | 2016 | **[Measuring and Valuing Health Benefits for Economic Evaluation, Second Edition](Measuring%20and%20Valuing%20Health%20Benifits%20for%20Economic%20Evaluation%2C%202E/Measuring%20and%20Valuing%20Health%20Benifits%20for%20Economic%20Evaluation%2C%202E.pdf)** | Oup Oxford |
 
 
 ### 統計語言
